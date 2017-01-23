@@ -2,7 +2,6 @@
 
 Where possible, this legislation borrows from subject matter experts, using definitions proposed by the Society of Automotive Engineers (SAE) and the National Highway Transportation Safety Administration (NHTSA) to provide a robust framework for Washington Law that fits with existing literature. For the purposes of regulation, autonomous vehicle technology is classified into five categories that mirror national standards. 
 
-<<<<<<< HEAD
 The bill treats the Department of Licensing (DOL) as the primary interface between consumers, government, and manufacturers in order to ensure a consistent, statewide system for understanding new technology as it emerges. Where the DOL does not have expertise, the DOL should work with the Committee for Autonomous Technologies and Cybersecurity (CyberCATS), which is also introduced in the bill. 
 
 CyberCATS will be required to study and begin an aggressive research campaign into the effects of autonomous technologies, including key stakeholders across the government and industry. This committee should form the basis for information sharing and preparation for future developments in the autonomous transportation field. 
