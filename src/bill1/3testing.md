@@ -7,7 +7,7 @@ A manufacturer or autonomous vehicle entity that wants to test the vehicle on pu
 1. Statement that each vehicle follows NHTSA Performance guidance and complies with applicable Federal Motor Vehicle Safety Standard.
 2. Identification of manufacturer or autonomous vehicle entity and contact information of the testing program director.
 3. Vehicles’ identification to be tested on public roadways by VIN, vehicle type, and year, make, and model.
-4. Identification of the operator of the test vehicle with their driver’s license number, and respective jurisdiction.
+4. Identification of the activator of the test vehicle with their driver’s license number, and respective jurisdiction.
 5. Safety and compliance plan, including self-certification of testing and compliance to NHTSA’s guidance (a copy of the summary Safety Assessment submitted to the NHTSA per the Vehicle Performance Guidance).
 6. Privacy data policy.
 7. Evidence of insurance, surety bond, or proof of self-insurance for 5 million US dollars.
