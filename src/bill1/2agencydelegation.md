@@ -1,7 +1,7 @@
 
 # NEW SECTION Sec. 2 Committee for Autonomous Technologies, Safety, and Cybersecurity
 
-**The Committee.** The Transportation Commission will create and launch the “Committee for Autonomous Technologies Safety and Cybersecurity” (CyberCATS). The Committee shall include representatives from the Office of the Governor, the Department of Licensing, the State Department of Transportation, the Washington State Patrol, Washington Traffic Safety Commission, the Office of the Chief Information Officer, Washington State Office of the Insurance Commissioner, Washington State Department of Social and Health Services, tolling and transit authorities from the Washington Department of Transportation, among other representatives necessary for coordinating the testing and operating activities of the autonomous technology. CyberCATS should consult with representatives from related industries at regular intervals. 
+**The Committee.** The Department of Licensing will create and launch the “Committee for Autonomous Technologies Safety and Cybersecurity” (CyberCATS). The Committee shall include representatives from the Office of the Governor, the Department of Licensing, the State Department of Transportation, the Washington State Patrol, Washington Traffic Safety Commission, the Office of the Chief Information Officer, Washington State Office of the Insurance Commissioner, Washington State Department of Social and Health Services, tolling and transit authorities from the Washington Department of Transportation. The Department of Licensing shall carry out semiannual evaluation of the committee membership and may extend offers to other groups or agencies reasonably necessary to carry out the functions specified herein.  CyberCATS should consult with representatives from related industries at regular intervals. 
 
 **Information.** The Department of Licensing will inform the CyberCATS about the requests received to test autonomous vehicles and the status of the Department’s responses to them.
 Data testing requirements. The Department of Licensing will define with the CyberCATS the necessary data from the entity to register an autonomous vehicle in Washington State. 
@@ -16,6 +16,7 @@ CyberCATS shall produce the following recommendations in consultation with the s
 3. How AVs will impact traffic and public transit
 4. Necessary infrastructure upgrades and improvements to safety that can be achieved through public - private partnerships
 5. The impact of autonomous vehicles on disadvantaged populations including what changes may be made to improve access for disabled and indigent populations. 
+6. A review of existing and proposed regulations which would conflict with the deployment of automated vehicles within the state of Washington. The review should provide recommendations to resolve any identified conflicts. 
  
 After completion of the preceding reports, CyberCATS may review, consult, or provide recommendations which bear on the use of autonomous vehicles in Washington State at its discretion.
 
